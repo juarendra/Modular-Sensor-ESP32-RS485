@@ -23,5 +23,4 @@
   <img src="DOC/HARDFWARE/hw3.jpeg" width="25%" height="25%">
   <img src="DOC/HARDFWARE/hw4.jpeg" width="25%" height="25%">
   <img src="DOC/HARDFWARE/hw5.jpeg" width="25%" height="25%">
-  <img src="DOC/HARDFWARE/hw6.jpeg" width="25%" height="25%">
 </p>
