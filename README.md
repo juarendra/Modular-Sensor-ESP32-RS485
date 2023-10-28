@@ -8,12 +8,12 @@
 
 ## Prevew Web UI
 <p align="center">
-  <img src="DOC/SOFTWARE/ui_1.jpeg" width="50%" height="50%">
-  <img src="DOC/SOFTWARE/ui_2.jpeg">
-  <img src="DOC/SOFTWARE/ui_3.jpeg">
-  <img src="DOC/SOFTWARE/ui_4.jpeg">
-  <img src="DOC/SOFTWARE/ui_5.jpeg">
-  <img src="DOC/SOFTWARE/ui_6.jpeg">
+  <img src="DOC/SOFTWARE/ui_1.jpeg" width="25%" height="25%">
+  <img src="DOC/SOFTWARE/ui_2.jpeg" width="25%" height="25%">
+  <img src="DOC/SOFTWARE/ui_3.jpeg" width="25%" height="25%">
+  <img src="DOC/SOFTWARE/ui_4.jpeg" width="25%" height="25%">
+  <img src="DOC/SOFTWARE/ui_5.jpeg" width="25%" height="25%">
+  <img src="DOC/SOFTWARE/ui_6.jpeg" width="25%" height="25%">
 </p>
 
 ## Prevew Hardware
