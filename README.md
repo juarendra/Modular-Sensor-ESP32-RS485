@@ -8,7 +8,7 @@
 
 ## Prevew Web UI
 <p align="center">
-  <img src="DOC/SOFTWARE/ui_1.jpeg" width="50" height="50">
+  <img src="DOC/SOFTWARE/ui_1.jpeg" width="50%" height="50%">
   <img src="DOC/SOFTWARE/ui_2.jpeg">
   <img src="DOC/SOFTWARE/ui_3.jpeg">
   <img src="DOC/SOFTWARE/ui_4.jpeg">
