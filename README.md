@@ -17,3 +17,11 @@
 </p>
 
 ## Prevew Hardware
+<p align="center">
+  <img src="DOC/HARDFWARE/hw1.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDFWARE/hw2.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDFWARE/hw3.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDFWARE/hw4.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDFWARE/hw5.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDFWARE/hw6.jpeg" width="25%" height="25%">
+</p>
