@@ -28,9 +28,9 @@
 ## Pinout
 ### Pinout Base
 <p align="center">
-  <img src="DOC/HARDWARE/hw6.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDWARE/hw6.jpeg" >
 </p>
 ### Pinout Modular
 <p align="center">
-  <img src="DOC/HARDWARE/hw7.jpeg" width="25%" height="25%">
+  <img src="DOC/HARDWARE/hw7.jpeg" >
 </p>
