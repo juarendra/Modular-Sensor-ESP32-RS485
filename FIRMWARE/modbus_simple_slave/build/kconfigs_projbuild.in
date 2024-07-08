@@ -1,0 +1,7 @@
+source "C:/Espressif/frameworks/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf/examples/protocols/modbus/serial/modbus_simple_slave/main/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"

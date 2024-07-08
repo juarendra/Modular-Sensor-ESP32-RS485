@@ -1,0 +1,9 @@
+{
+    "idf.flashType": "UART",
+    "idf.portWin": "COM17",
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "wifi_manager.h": "c",
+        "nvs_sync.h": "c"
+    }
+}
